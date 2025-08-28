@@ -17,10 +17,10 @@ More precisely, I am excited about how these fields can shape our future homes a
 ##  Stack & Skills
 
 **Programming Languages:**  
-C++, C, Python, ARMv7 Assembly, VHDL-2008, Javascript
+C++, C, Python, ARMv7 Assembly, VHDL-2008
 
 **Technologies & Tools:**  
-Vivado, Quartus, ModelSim, CMake, GCC, Git, STM32, ESP32, Arduino, AWS Cloud, Astro, React, Tailwind
+Vivado, Quartus, ModelSim, CMake, GCC, Git, STM32, ESP32, Arduino, AWS Cloud
 
 **Areas of Interest:**  
 Embedded Systems, Logic Design, IoT, House Automations  
