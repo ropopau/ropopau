@@ -29,4 +29,4 @@ Embedded Systems, Logic Design, IoT, House Automations
 
 ## 📫 Contact
 - Email: [dsanghyeon@gmail.com](mailto:dsanghyeon@gmail.com)  
-- GitHub: [github.com/ropopau](https://github.com/ropopau)  
+- Linkedin: [in/sanghyeon-park-108404222/](https://www.linkedin.com/in/sanghyeon-park-108404222/)  
