@@ -9,7 +9,8 @@ More precisely, I am excited about how these fields can shape our future homes a
 - French citizen, Korean ethnicity
 - Based in Paris, France
 - Student at EPITA (2023 - 2026)
-- Fullstack developer Freelance since July 2025. 
+- Fullstack developer Freelance since July 2025.
+- Native in French and Korean
 
 ---
 
