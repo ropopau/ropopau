@@ -1,4 +1,4 @@
-# Hi, I’m Sanghyeon PARK 👋
+# Hello
 
 I am a Software Engineering student with a strong interest in low-level programming, FPGA logic design, and IoT.
 More precisely, I am excited about how these fields can shape our future homes and cities, and how they will impact our daily lives.
